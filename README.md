@@ -27,8 +27,8 @@ To set up and run this project, your system should meet the following requiremen
 
 - **Operating System**: Windows 10 or later, macOS, or Linux.
 - **Processor**: Intel i5 or equivalent.
-- **Memory**: Minimum 8 GB RAM.
-- **Storage**: At least 500 MB of free disk space.
+- **Memory**: At least 8 GB RAM (16 GB recommended).
+- **Storage**: 5 GB of available disk space for installation and models
 - **Python**: Version 3.8 or later.
 - **Pip**: Python package installer to manage project dependencies.
 
@@ -37,8 +37,7 @@ Ensure that Python and Pip are installed and properly configured in your system'
 ### Step-by-Step Installation
 1. **Clone the Repository:**
     ```bash
-    git clone [repository_url]
-    cd [repository_name]
+    git clone https://github.com/Lavilaan/Chatbot.git
     ```
 2. **Install Dependencies:**
     ```bash
@@ -66,6 +65,7 @@ Here's a preview of the chatbot interface:
 - `chatbot.py`: Main application script containing the chatbot code.
 - `requirements.txt`: List of required Python libraries.
 - `README.md`: This file, providing an overview of the project.
+- `Chatbot.docx`: This is the documentation of the project.
 
 ## Contributing
 Contributions to the project are welcome. Please fork the repository and submit a pull request with any enhancements or bug fixes.
