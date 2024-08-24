@@ -10,6 +10,10 @@ This project focuses on developing a customizable and secure chatbot to enhance 
 - **Context Recognition:** The chatbot recognizes and maintains context, reducing hallucinations and improving response accuracy.
 - **Security and Privacy:** The chatbot operates locally on the user's system to ensure data privacy and security.
 
+## **Documentation**
+
+The project is documented in detail in the [Chatbot.docx](./Chatbot.docx) file. This document includes the project scope, design, implementation details, testing results, and user manual. It serves as a comprehensive guide for understanding the project's architecture, features, and functionalities.
+
 ## Technologies Used
 - **Ollama LLaMA3:** A leading large language model for generating natural language responses.
 - **LangChain:** A framework for building applications powered by LLMs.
@@ -19,8 +23,16 @@ This project focuses on developing a customizable and secure chatbot to enhance 
 ## Installation and Setup
 
 ### Prerequisites
-- Python (latest version)
-- Pip (Python package manager)
+To set up and run this project, your system should meet the following requirements:
+
+- **Operating System**: Windows 10 or later, macOS, or Linux.
+- **Processor**: Intel i5 or equivalent.
+- **Memory**: Minimum 8 GB RAM.
+- **Storage**: At least 500 MB of free disk space.
+- **Python**: Version 3.8 or later.
+- **Pip**: Python package installer to manage project dependencies.
+
+Ensure that Python and Pip are installed and properly configured in your system's environment variables.
 
 ### Step-by-Step Installation
 1. **Clone the Repository:**
@@ -46,7 +58,7 @@ This project focuses on developing a customizable and secure chatbot to enhance 
 
 ## Screenshots
 Here's a preview of the chatbot interface:
-![Chatbot Interface](path_to_your_screenshot.png)
+![Chatbot Interface](C:\Users\Dell laptop\OneDrive\Documents\GitHub\Chatbot\Interface.png)
 
 *Replace the above path with the actual path to your screenshot file in the repository.*
 
@@ -59,7 +71,4 @@ Here's a preview of the chatbot interface:
 Contributions to the project are welcome. Please fork the repository and submit a pull request with any enhancements or bug fixes.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-For any inquiries or support, please contact [Your Name] at [Your Email Address].
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
