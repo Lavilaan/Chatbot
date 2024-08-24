@@ -59,8 +59,6 @@ Ensure that Python and Pip are installed and properly configured in your system'
 Here's a preview of the chatbot interface:
 ![Chatbot Interface](./Interface.png)
 
-*Replace the above path with the actual path to your screenshot file in the repository.*
-
 ## Project Structure
 - `chatbot.py`: Main application script containing the chatbot code.
 - `requirements.txt`: List of required Python libraries.
